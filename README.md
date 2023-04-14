@@ -1,6 +1,6 @@
 # Know about webhook
 
-As our chatbot(talking about our `PizzaBot`) has ability to handle conversational as we needed to be. We can add extra ability to let it interact with other systems, such as databases, APIs, and third-party applications.
+As our chatbot(talking about our `[PizzaBot](https://docs.sarufi.io)`) has ability to handle conversational as we needed to be. We can add extra ability to let it interact with other systems, such as databases, APIs, and third-party applications.
 
 This is possible by utilizing sarufi's webhook functionality to automate workflows. This will make our previous chatbot so powerful and useful. We can integrate webhook into our chatbot to handle things like payments,update inventories, update delivery tracking system.
 
